@@ -64,6 +64,5 @@ This chatbot provides general legal information based on Turkish court decisions
 **Architecture**: Microservices  
 **Deployment**: Cloud-native  
 **Compliance**: GDPR, KVKK  
-**Values**: Democracy, Justice, Transparency
 
 **Built with ❤️ using modern web technologies for the future of legal services and democracy in Turkey**
